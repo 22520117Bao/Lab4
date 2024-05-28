@@ -1,0 +1,10 @@
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\bin\Debug\bai2_lab4.exe.config
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\bin\Debug\bai2_lab4.exe
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\bin\Debug\bai2_lab4.pdb
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\obj\Debug\bai2_lab4.csproj.AssemblyReference.cache
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\obj\Debug\bai2_lab4.Form1.resources
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\obj\Debug\bai2_lab4.Properties.Resources.resources
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\obj\Debug\bai2_lab4.csproj.GenerateResource.cache
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\obj\Debug\bai2_lab4.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\obj\Debug\bai2_lab4.exe
+D:\Lap trinh mang\Lab4_LTM\Bai2\bai2_lab4\bai2_lab4\obj\Debug\bai2_lab4.pdb
